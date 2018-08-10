@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Knowitchallange.iml" filepath="$PROJECT_DIR$/.idea/modules/Knowitchallange.iml" group="Knowitchallange" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Knowitchallange/Knowitchallange_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Knowitchallange/Knowitchallange_main.iml" group="Knowitchallange" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Knowitchallange/Knowitchallange_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Knowitchallange/Knowitchallange_test.iml" group="Knowitchallange" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars-7kyu.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars-7kyu.iml" group="codewars-7kyu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars-7kyu/codewars-7kyu_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars-7kyu/codewars-7kyu_main.iml" group="codewars-7kyu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars-7kyu/codewars-7kyu_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars-7kyu/codewars-7kyu_test.iml" group="codewars-7kyu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars-8kyu.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars-8kyu.iml" group="codewars-8kyu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars-8kyu/codewars-8kyu_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars-8kyu/codewars-8kyu_main.iml" group="codewars-8kyu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars-8kyu/codewars-8kyu_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars-8kyu/codewars-8kyu_test.iml" group="codewars-8kyu" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars.challenges.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars.challenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars.challenges_main.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars.challenges_main.iml" group="codewars.challenges" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/codewars.challenges_test.iml" filepath="$PROJECT_DIR$/.idea/modules/codewars.challenges_test.iml" group="codewars.challenges" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/knowitinternview/knowitinternview.iml" filepath="$PROJECT_DIR$/.idea/modules/knowitinternview/knowitinternview.iml" />
+    </modules>
+  </component>
+</project>

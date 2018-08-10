@@ -1,0 +1,5 @@
+rootProject.name = 'codewars.challenges'
+include 'codewars-8kyu'
+include 'codewars-7kyu'
+include 'Knowitchallange'
+

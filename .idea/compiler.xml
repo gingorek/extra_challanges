@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="codewars-7kyu_main" target="1.8" />
+      <module name="codewars-7kyu_test" target="1.8" />
+      <module name="codewars-8kyu_main" target="1.8" />
+      <module name="codewars-8kyu_test" target="1.8" />
+      <module name="codewars.challenges_main" target="1.8" />
+      <module name="codewars.challenges_test" target="1.8" />
+      <module name="Knowitchallange_main" target="1.8" />
+      <module name="Knowitchallange_test" target="1.8" />
+      <module name="knowitinternview_main" target="1.8" />
+      <module name="knowitinternview_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
